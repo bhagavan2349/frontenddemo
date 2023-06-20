@@ -1,0 +1,27 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: right;
+  text-align: left;
+  background-color: rgb(220, 239, 232);
+}
+.card {
+    border: 5px solid #c17676;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .card-type {
+    float: right;
+  }
+  .tabs-container{
+    display: flex;
+    justify-content: space-between;
+  }
+  .tabs{
+    flex: 1;
+    margin-right: 10;
+  }
